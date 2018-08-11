@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Smart butler</string>
+    <string name="title_first">智能管家</string>
+    <string name="title_second">微信精选</string>
+    <string name="title_third">美女社区</string>
+    <string name="title_four">个人中心</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_splash">一护卍管家</string>
+    <string name="enter_main">进入主页</string>
+    <string name="poetry1">风吹过戏言飘忽\n一时间梦也摇曳\n还有场余生未卜\n房门展地做茶客\n春风行锒铛路途\n
+        放一半世人的恶\n偏有你赴舟作序\n许你骄纵\n许你蛮横\n却不许我心头妒恨\n\n\n谁知我知你 我知你之深——瑞文\n
+        此恨经年深 此情度日久\n 何以与君识 无言泪千行
+    </string>
+    <string name="poetry2">你走也是诗\n躺也成文\n怎有烟火浊了身\n我糟糠也食\n五谷也认\n跳一场花旦笑捧\n长缎锦袍喜字眉梢\n
+        多了个万众无一\n爱一回声色犬马\n任它浪费长夜漫漫</string>
+    <string name="label_login">登录</string>
+    <string name="et_username">用户名</string>
+    <string name="et_password">密码</string>
+    <string name="cb_remember">记住密码</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="tv_forget_password">忘记密码</string>
+    <string name="wait">请稍后...</string>
+    <string name="editInfo">编辑信息</string>
+    <string name="camera">拍一张</string>
+    <string name="gallery">选一张</string>
+    <string name="cancel">取消</string>
+    <string name="newsTitle">新闻标题</string>
+    <string name="newsSource">出处</string>
+
+</resources>
